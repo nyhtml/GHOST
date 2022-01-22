@@ -1,4 +1,4 @@
-# G.H.O.S.T. - Getting Here Once Save Time
+# G.H.O.S.T. - Getting Here Once Saves Time
 G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses a text-based user interface to provide automated installation and activation of frequently used Microsoft Windows compatible programs at home and in the office. GHOST utilizes the command-line interface of the Windows Operating System for a simple installation.
 
 ## Table of Contents
