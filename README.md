@@ -10,7 +10,7 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * Cisco AnyConnect
 * Google Chrome
 * Mozilla Firefox
-
+* RSA SurePDF
 
 ## Installation
 * Windows 10
@@ -19,7 +19,6 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
   * Never notify me when:
     * Programs try to install software or make changes to my computer
     * I make changes to Windows settings
-
 
 ## Download
 Download the [latest releases](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) of [GHOST](https://github.com/nyhtml/GHOST) on GitHub.
