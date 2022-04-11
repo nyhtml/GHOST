@@ -10,7 +10,9 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * Cisco AnyConnect
 * Google Chrome
 * Mozilla Firefox
+* Opera Browser
 * RSA SurePDF
+* Zoom Client for Meetings
 
 ## Installation
 * Windows 10
