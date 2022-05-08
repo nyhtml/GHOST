@@ -11,6 +11,7 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * Google Chrome
 * Mozilla Firefox
 * Opera Browser
+* Oracle Java
 * RSA SurePDF
 * Zoom Client for Meetings
 
@@ -23,4 +24,4 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
     * I make changes to Windows settings
 
 ## Download
-Download the [latest releases](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) of [GHOST](https://github.com/nyhtml/GHOST) on GitHub.
+Download the [latest release](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) of [GHOST](https://github.com/nyhtml/GHOST) on GitHub.
