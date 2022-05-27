@@ -6,9 +6,11 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * [Installation](#installation)
 
 ## Default Apps
+* Acro Software CutePDF
 * Adobe Reader DC
 * Cisco AnyConnect
 * Google Chrome
+* Microsoft .NET Framework
 * Mozilla Firefox
 * Opera Browser
 * Oracle Java
