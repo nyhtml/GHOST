@@ -1,4 +1,4 @@
-# G.H.O.S.T. - Getting Here Once Saves Time
+# G.H.O.S.T. - Go Here Once Saves Time
 G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses a text-based user interface to provide automated installation of frequently used programs at home and in the office that are Microsoft Windows compatible. GHOST utilizes the command-line interface of the Windows Operating System for a simple installation.
 
 ## Table of Contents
@@ -26,4 +26,4 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
     * I make changes to Windows settings
 
 ## Download
-Download the [latest release](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) of [GHOST](https://github.com/nyhtml/GHOST) on GitHub.
+[View](https://github.com/nyhtml/GHOST/releases/) or [download](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) releases from GitHub.
