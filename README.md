@@ -19,6 +19,7 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * Zoom Client for Meetings
 
 ## Installation
+* Windows 11
 * Windows 10
   * OS Build 1703 or later
 * User Access Control 
