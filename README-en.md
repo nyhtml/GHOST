@@ -11,10 +11,12 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * Cisco AnyConnect
 * Google Chrome
 * Microsoft .NET Framework
+* Microsoft Office 2019/2021/365
 * Microsoft Teams for Work
 * Mozilla Firefox
+* Notepad++
 * Opera Browser
-* Oracle Java
+* Oracle Java 6 & 7
 * RSA SurePDF
 * VideoLAN VLC media player
 * Zoom Client for Meetings
