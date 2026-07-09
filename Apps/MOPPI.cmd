@@ -1,6 +1,7 @@
 @ECHO OFF
+PUSHD "%~dp0"
 COLOR 1F && CLS
-TITLE MOPPI v2026.04
+TITLE MOPPI v2026.07
 
 :: Get current year using PowerShell (works on all modern systems)
 FOR /F %%i IN ('powershell -NoProfile -Command "Get-Date -Format yyyy"') DO SET Year=%%i
@@ -102,4 +103,3 @@ GOTO SELECT
 ECHO Exiting MOPPI...
 TIMEOUT /T 1 >NUL
 EXIT
-
