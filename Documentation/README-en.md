@@ -5,7 +5,7 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * [Default Apps](#default-apps)
 * [Installation](#installation)
 
-## Default Apps
+### Default Apps
 * Acro Software CutePDF
 * Adobe Reader DC
 * Cisco AnyConnect
@@ -22,7 +22,7 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 * WinSCP
 * Zoom Client for Meetings
 
-## Installation
+### Installation
 * Windows 11
 * Windows 10
   * OS Build 1703 or later
@@ -31,5 +31,5 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
     * Programs try to install software or make changes to my computer
     * I make changes to Windows settings
 
-## Download
+### Download
 [View](https://github.com/nyhtml/GHOST/releases/) or [download](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) releases from GitHub.
